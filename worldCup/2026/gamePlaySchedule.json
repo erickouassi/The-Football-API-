@@ -1,0 +1,1205 @@
+[
+  {
+    "Match": 0,
+    "Play": "Match Day 2",
+    "Team_1": "Mexico",
+    "Score_1": 1,
+    "Score_2": 0,
+    "Team_2": "Republic of Korea",
+    "Winner": "Mexico",
+    "Group": "A",
+    "Flag_1": "https://flagcdn.com/mx.svg",
+    "Flag_2": "https://flagcdn.com/kr.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 2",
+    "Team_1": "Czechia",
+    "Score_1": 1,
+    "Score_2": 1,
+    "Team_2": "South Africa",
+    "Winner": "Draw",
+    "Group": "A",
+    "Flag_1": "https://flagcdn.com/cz.svg",
+    "Flag_2": "https://flagcdn.com/za.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 3",
+    "Team_1": "Mexico",
+    "Score_1": 3,
+    "Score_2": 0,
+    "Team_2": "Czechia",
+    "Winner": "Mexico",
+    "Group": "A",
+    "Flag_1": "https://flagcdn.com/mx.svg",
+    "Flag_2": "https://flagcdn.com/cz.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 3",
+    "Team_1": "Republic of Korea",
+    "Score_1": 0,
+    "Score_2": 1,
+    "Team_2": "South Africa",
+    "Winner": "South Africa",
+    "Group": "A",
+    "Flag_1": "https://flagcdn.com/kr.svg",
+    "Flag_2": "https://flagcdn.com/za.svg"
+  },
+  {
+    "Match": "Match 1",
+    "Play": "Match Day 1",
+    "Team_1": "Mexico",
+    "Score_1": 2,
+    "Score_2": 0,
+    "Team_2": "South Africa",
+    "Winner": "Mexico",
+    "Group": "A",
+    "Flag_1": "https://flagcdn.com/mx.svg",
+    "Flag_2": "https://flagcdn.com/za.svg"
+  },
+  {
+    "Match": "Match 2",
+    "Play": "Match Day 1",
+    "Team_1": "Republic of Korea",
+    "Score_1": 2,
+    "Score_2": 1,
+    "Team_2": "Czechia",
+    "Winner": "Republic of Korea",
+    "Group": "A",
+    "Flag_1": "https://flagcdn.com/kr.svg",
+    "Flag_2": "https://flagcdn.com/cz.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 3",
+    "Team_1": "Canada",
+    "Score_1": 1,
+    "Score_2": 2,
+    "Team_2": "Switzerland",
+    "Winner": "Switzerland",
+    "Group": "B",
+    "Flag_1": "https://flagcdn.com/ca.svg",
+    "Flag_2": "https://flagcdn.com/ch.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 3",
+    "Team_1": "Bosnia and Herzegovina",
+    "Score_1": 3,
+    "Score_2": 1,
+    "Team_2": "Qatar",
+    "Winner": "Bosnia and Herzegovina",
+    "Group": "B",
+    "Flag_1": "https://flagcdn.com/ba.svg",
+    "Flag_2": "https://flagcdn.com/qa.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 1",
+    "Team_1": "Canada",
+    "Score_1": 1,
+    "Score_2": 1,
+    "Team_2": "Bosnia and Herzegovina",
+    "Winner": "Draw",
+    "Group": "B",
+    "Flag_1": "https://flagcdn.com/ca.svg",
+    "Flag_2": "https://flagcdn.com/ba.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 1",
+    "Team_1": "Switzerland",
+    "Score_1": 1,
+    "Score_2": 1,
+    "Team_2": "Qatar",
+    "Winner": "Draw",
+    "Group": "B",
+    "Flag_1": "https://flagcdn.com/ch.svg",
+    "Flag_2": "https://flagcdn.com/qa.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 2",
+    "Team_1": "Canada",
+    "Score_1": 6,
+    "Score_2": 0,
+    "Team_2": "Qatar",
+    "Winner": "Canada",
+    "Group": "B",
+    "Flag_1": "https://flagcdn.com/ca.svg",
+    "Flag_2": "https://flagcdn.com/qa.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 2",
+    "Team_1": "Switzerland",
+    "Score_1": 4,
+    "Score_2": 1,
+    "Team_2": "Bosnia and Herzegovina",
+    "Winner": "Switzerland",
+    "Group": "B",
+    "Flag_1": "https://flagcdn.com/ch.svg",
+    "Flag_2": "https://flagcdn.com/ba.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 1",
+    "Team_1": "Brazil",
+    "Score_1": 1,
+    "Score_2": 1,
+    "Team_2": "Morocco",
+    "Winner": "Draw",
+    "Group": "C",
+    "Flag_1": "https://flagcdn.com/br.svg",
+    "Flag_2": "https://flagcdn.com/ma.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 1",
+    "Team_1": "Scotland",
+    "Score_1": 1,
+    "Score_2": 0,
+    "Team_2": "Haiti",
+    "Winner": "Scotland",
+    "Group": "C",
+    "Flag_1": "https://flagcdn.com/gb-sct.svg",
+    "Flag_2": "https://flagcdn.com/ht.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 3",
+    "Team_1": "Brazil",
+    "Score_1": 3,
+    "Score_2": 0,
+    "Team_2": "Scotland",
+    "Winner": "Brazil",
+    "Group": "C",
+    "Flag_1": "https://flagcdn.com/br.svg",
+    "Flag_2": "https://flagcdn.com/gb-sct.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 3",
+    "Team_1": "Morocco",
+    "Score_1": 4,
+    "Score_2": 2,
+    "Team_2": "Haiti",
+    "Winner": "Morocco",
+    "Group": "C",
+    "Flag_1": "https://flagcdn.com/ma.svg",
+    "Flag_2": "https://flagcdn.com/ht.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 2",
+    "Team_1": "Brazil",
+    "Score_1": 3,
+    "Score_2": 0,
+    "Team_2": "Haiti",
+    "Winner": "Brazil",
+    "Group": "C",
+    "Flag_1": "https://flagcdn.com/br.svg",
+    "Flag_2": "https://flagcdn.com/ht.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Match Day 2",
+    "Team_1": "Morocco",
+    "Score_1": 1,
+    "Score_2": 0,
+    "Team_2": "Scotland",
+    "Winner": "Morocco",
+    "Group": "C",
+    "Flag_1": "https://flagcdn.com/ma.svg",
+    "Flag_2": "https://flagcdn.com/gb-sct.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "D1",
+    "Team_1": "USA",
+    "Score_1": 2,
+    "Score_2": 0,
+    "Team_2": "Australia",
+    "Winner": "USA",
+    "Group": "D",
+    "Flag_1": "https://flagcdn.com/us.svg",
+    "Flag_2": "https://flagcdn.com/au.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "D2",
+    "Team_1": "Paraguay",
+    "Score_1": 1,
+    "Score_2": 0,
+    "Team_2": "Turkiye",
+    "Winner": "Paraguay",
+    "Group": "D",
+    "Flag_1": "https://flagcdn.com/py.svg",
+    "Flag_2": "https://flagcdn.com/tr.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "Game",
+    "Team_1": "USA",
+    "Score_1": 4,
+    "Score_2": 1,
+    "Team_2": "Paraguay",
+    "Winner": "USA",
+    "Group": "D",
+    "Flag_1": "https://flagcdn.com/us.svg",
+    "Flag_2": "https://flagcdn.com/py.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "D4",
+    "Team_1": "Australia",
+    "Score_1": 2,
+    "Score_2": 0,
+    "Team_2": "Turkiye",
+    "Winner": "Australia",
+    "Group": "D",
+    "Flag_1": "https://flagcdn.com/au.svg",
+    "Flag_2": "https://flagcdn.com/tr.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "D5",
+    "Team_1": "USA",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Turkiye",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/us.svg",
+    "Flag_2": "https://flagcdn.com/tr.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "D6",
+    "Team_1": "Australia",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Paraguay",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/au.svg",
+    "Flag_2": "https://flagcdn.com/py.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "E1",
+    "Team_1": "Germany",
+    "Score_1": 2,
+    "Score_2": 1,
+    "Team_2": "Ivory Coast",
+    "Winner": "Germany",
+    "Group": "E",
+    "Flag_1": "https://flagcdn.com/de.svg",
+    "Flag_2": "https://flagcdn.com/ci.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "E2",
+    "Team_1": "Ecuador",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Curacao",
+    "Winner": "Draw",
+    "Group": "E",
+    "Flag_1": "https://flagcdn.com/ec.svg",
+    "Flag_2": "https://flagcdn.com/cw.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "E3",
+    "Team_1": "Germany",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Ecuador",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/de.svg",
+    "Flag_2": "https://flagcdn.com/ec.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "E4",
+    "Team_1": "Ivory Coast",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Curacao",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/ci.svg",
+    "Flag_2": "https://flagcdn.com/cw.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "E5",
+    "Team_1": "Germany",
+    "Score_1": 7,
+    "Score_2": 1,
+    "Team_2": "Curacao",
+    "Winner": "Germany",
+    "Group": "E",
+    "Flag_1": "https://flagcdn.com/de.svg",
+    "Flag_2": "https://flagcdn.com/cw.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "E6",
+    "Team_1": "Ivory Coast",
+    "Score_1": 1,
+    "Score_2": 0,
+    "Team_2": "Ecuador",
+    "Winner": "Ivory Coast",
+    "Group": "E",
+    "Flag_1": "https://flagcdn.com/ci.svg",
+    "Flag_2": "https://flagcdn.com/ec.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "F1",
+    "Team_1": "Netherlands",
+    "Score_1": 2,
+    "Score_2": 2,
+    "Team_2": "Japan",
+    "Winner": "Draw",
+    "Group": "F",
+    "Flag_1": "https://flagcdn.com/nl.svg",
+    "Flag_2": "https://flagcdn.com/jp.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "F2",
+    "Team_1": "Sweden",
+    "Score_1": 5,
+    "Score_2": 1,
+    "Team_2": "Tunisia",
+    "Winner": "Sweden",
+    "Group": "F",
+    "Flag_1": "https://flagcdn.com/se.svg",
+    "Flag_2": "https://flagcdn.com/tn.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "F3",
+    "Team_1": "Netherlands",
+    "Score_1": 5,
+    "Score_2": 1,
+    "Team_2": "Sweden",
+    "Winner": "Netherlands",
+    "Group": "F",
+    "Flag_1": "https://flagcdn.com/nl.svg",
+    "Flag_2": "https://flagcdn.com/se.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "F4",
+    "Team_1": "Japan",
+    "Score_1": 4,
+    "Score_2": 0,
+    "Team_2": "Tunisia",
+    "Winner": "Japan",
+    "Group": "F",
+    "Flag_1": "https://flagcdn.com/jp.svg",
+    "Flag_2": "https://flagcdn.com/tn.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "F5",
+    "Team_1": "Netherlands",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Tunisia",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/nl.svg",
+    "Flag_2": "https://flagcdn.com/tn.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "F6",
+    "Team_1": "Japan",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Sweden",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/jp.svg",
+    "Flag_2": "https://flagcdn.com/se.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "G1",
+    "Team_1": "New Zealand",
+    "Score_1": 2,
+    "Score_2": 2,
+    "Team_2": "Iran",
+    "Winner": "Draw",
+    "Group": "G",
+    "Flag_1": "https://flagcdn.com/nz.svg",
+    "Flag_2": "https://flagcdn.com/ir.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "G2",
+    "Team_1": "Belgium",
+    "Score_1": 1,
+    "Score_2": 1,
+    "Team_2": "Egypt",
+    "Winner": "Draw",
+    "Group": "G",
+    "Flag_1": "https://flagcdn.com/be.svg",
+    "Flag_2": "https://flagcdn.com/eg.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "G3",
+    "Team_1": "New Zealand",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Belgium",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/nz.svg",
+    "Flag_2": "https://flagcdn.com/be.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "G4",
+    "Team_1": "Iran",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Egypt",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/ir.svg",
+    "Flag_2": "https://flagcdn.com/eg.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "G5",
+    "Team_1": "New Zealand",
+    "Score_1": 1,
+    "Score_2": 3,
+    "Team_2": "Egypt",
+    "Winner": "Egypt",
+    "Group": "G",
+    "Flag_1": "https://flagcdn.com/nz.svg",
+    "Flag_2": "https://flagcdn.com/eg.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "G6",
+    "Team_1": "Iran",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Belgium",
+    "Winner": "Draw",
+    "Group": "G",
+    "Flag_1": "https://flagcdn.com/ir.svg",
+    "Flag_2": "https://flagcdn.com/be.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "H1",
+    "Team_1": "Uruguay",
+    "Score_1": 1,
+    "Score_2": 1,
+    "Team_2": "Saudi Arabia",
+    "Winner": "Draw",
+    "Group": "H",
+    "Flag_1": "https://flagcdn.com/uy.svg",
+    "Flag_2": "https://flagcdn.com/sa.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "H2",
+    "Team_1": "Spain",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Cape Verde",
+    "Winner": "Draw",
+    "Group": "H",
+    "Flag_1": "https://flagcdn.com/es.svg",
+    "Flag_2": "https://flagcdn.com/cv.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "H3",
+    "Team_1": "Uruguay",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Spain",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/uy.svg",
+    "Flag_2": "https://flagcdn.com/es.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "H4",
+    "Team_1": "Saudi Arabia",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Cape Verde",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/sa.svg",
+    "Flag_2": "https://flagcdn.com/cv.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "H5",
+    "Team_1": "Uruguay",
+    "Score_1": 2,
+    "Score_2": 2,
+    "Team_2": "Cape Verde",
+    "Winner": "Draw",
+    "Group": "H",
+    "Flag_1": "https://flagcdn.com/uy.svg",
+    "Flag_2": "https://flagcdn.com/cv.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "H6",
+    "Team_1": "Saudi Arabia",
+    "Score_1": 0,
+    "Score_2": 4,
+    "Team_2": "Spain",
+    "Winner": "Spain",
+    "Group": "H",
+    "Flag_1": "https://flagcdn.com/sa.svg",
+    "Flag_2": "https://flagcdn.com/es.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "I1",
+    "Team_1": "Norway",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "France",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/no.svg",
+    "Flag_2": "https://flagcdn.com/fr.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "I2",
+    "Team_1": "Senegal",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Iraq",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/sn.svg",
+    "Flag_2": "https://flagcdn.com/iq.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "I3",
+    "Team_1": "Norway",
+    "Score_1": 3,
+    "Score_2": 2,
+    "Team_2": "Senegal",
+    "Winner": "Norway",
+    "Group": "I",
+    "Flag_1": "https://flagcdn.com/no.svg",
+    "Flag_2": "https://flagcdn.com/sn.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "I4",
+    "Team_1": "France",
+    "Score_1": 3,
+    "Score_2": 0,
+    "Team_2": "Iraq",
+    "Winner": "France",
+    "Group": "I",
+    "Flag_1": "https://flagcdn.com/fr.svg",
+    "Flag_2": "https://flagcdn.com/iq.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "I5",
+    "Team_1": "Norway",
+    "Score_1": 4,
+    "Score_2": 1,
+    "Team_2": "Iraq",
+    "Winner": "Norway",
+    "Group": "I",
+    "Flag_1": "https://flagcdn.com/no.svg",
+    "Flag_2": "https://flagcdn.com/iq.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "I6",
+    "Team_1": "France",
+    "Score_1": 3,
+    "Score_2": 1,
+    "Team_2": "Senegal",
+    "Winner": "France",
+    "Group": "I",
+    "Flag_1": "https://flagcdn.com/fr.svg",
+    "Flag_2": "https://flagcdn.com/sn.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "J1",
+    "Team_1": "Argentina",
+    "Score_1": 2,
+    "Score_2": 0,
+    "Team_2": "Austria",
+    "Winner": "Argentina",
+    "Group": "J",
+    "Flag_1": "https://flagcdn.com/ar.svg",
+    "Flag_2": "https://flagcdn.com/at.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "J2",
+    "Team_1": "Jordan",
+    "Score_1": 1,
+    "Score_2": 2,
+    "Team_2": "Algeria",
+    "Winner": "Algeria",
+    "Group": "J",
+    "Flag_1": "https://flagcdn.com/jo.svg",
+    "Flag_2": "https://flagcdn.com/dz.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "J3",
+    "Team_1": "Argentina",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Jordan",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/ar.svg",
+    "Flag_2": "https://flagcdn.com/jo.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "J4",
+    "Team_1": "Austria",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Algeria",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/at.svg",
+    "Flag_2": "https://flagcdn.com/dz.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "J5",
+    "Team_1": "Argentina",
+    "Score_1": 3,
+    "Score_2": 0,
+    "Team_2": "Algeria",
+    "Winner": "Argentina",
+    "Group": "J",
+    "Flag_1": "https://flagcdn.com/ar.svg",
+    "Flag_2": "https://flagcdn.com/dz.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "J6",
+    "Team_1": "Austria",
+    "Score_1": 1,
+    "Score_2": 3,
+    "Team_2": "Jordan",
+    "Winner": "Jordan",
+    "Group": "J",
+    "Flag_1": "https://flagcdn.com/at.svg",
+    "Flag_2": "https://flagcdn.com/jo.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "K1",
+    "Team_1": "Colombia",
+    "Score_1": 1,
+    "Score_2": 0,
+    "Team_2": "Congo DR",
+    "Winner": "Colombia",
+    "Group": "K",
+    "Flag_1": "https://flagcdn.com/co.svg",
+    "Flag_2": "https://flagcdn.com/cd.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "K2",
+    "Team_1": "Portugal",
+    "Score_1": 5,
+    "Score_2": 0,
+    "Team_2": "Uzbekistan",
+    "Winner": "Portugal",
+    "Group": "K",
+    "Flag_1": "https://flagcdn.com/pt.svg",
+    "Flag_2": "https://flagcdn.com/uz.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "K3",
+    "Team_1": "Colombia",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Portugal",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/co.svg",
+    "Flag_2": "https://flagcdn.com/pt.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "K4",
+    "Team_1": "Congo DR",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Uzbekistan",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/cd.svg",
+    "Flag_2": "https://flagcdn.com/uz.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "K5",
+    "Team_1": "Colombia",
+    "Score_1": 3,
+    "Score_2": 1,
+    "Team_2": "Uzbekistan",
+    "Winner": "Colombia",
+    "Group": "K",
+    "Flag_1": "https://flagcdn.com/co.svg",
+    "Flag_2": "https://flagcdn.com/uz.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "K6",
+    "Team_1": "Congo DR",
+    "Score_1": 1,
+    "Score_2": 1,
+    "Team_2": "Portugal",
+    "Winner": "Draw",
+    "Group": "K",
+    "Flag_1": "https://flagcdn.com/cd.svg",
+    "Flag_2": "https://flagcdn.com/pt.svg"
+  },
+  {
+
+  },
+  {
+    "Match": 0,
+    "Play": "L1",
+    "Team_1": "England",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Ghana",
+    "Winner": "Draw",
+    "Group": "L",
+    "Flag_1": "https://flagcdn.com/gb-eng.svg",
+    "Flag_2": "https://flagcdn.com/gh.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "L2",
+    "Team_1": "Panama",
+    "Score_1": 0,
+    "Score_2": 1,
+    "Team_2": "Croatia",
+    "Winner": "Croatia",
+    "Group": "L",
+    "Flag_1": "https://flagcdn.com/pa.svg",
+    "Flag_2": "https://flagcdn.com/hr.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "L3",
+    "Team_1": "England",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Panama",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/gb-eng.svg",
+    "Flag_2": "https://flagcdn.com/pa.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "L4",
+    "Team_1": "Ghana",
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": "Croatia",
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": "https://flagcdn.com/gh.svg",
+    "Flag_2": "https://flagcdn.com/hr.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "L5",
+    "Team_1": "England",
+    "Score_1": 4,
+    "Score_2": 2,
+    "Team_2": "Croatia",
+    "Winner": "England",
+    "Group": "L",
+    "Flag_1": "https://flagcdn.com/gb-eng.svg",
+    "Flag_2": "https://flagcdn.com/hr.svg"
+  },
+  {
+    "Match": 0,
+    "Play": "L6",
+    "Team_1": "Ghana",
+    "Score_1": 1,
+    "Score_2": 0,
+    "Team_2": "Panama",
+    "Winner": "Ghana",
+    "Group": "L",
+    "Flag_1": "https://flagcdn.com/gh.svg",
+    "Flag_2": "https://flagcdn.com/pa.svg"
+  },
+  {
+
+  },
+  {
+    "Match": "Match 73",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 74",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 75",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 76",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 77",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 78",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 79",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 80",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 81",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 82",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 83",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 84",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 85",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 86",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 87",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 88",
+    "Play": "Round of 32",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+
+  },
+  {
+    "Match": "Match 89",
+    "Play": "Round of 16",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 90",
+    "Play": "Round of 16",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 91",
+    "Play": "Round of 16",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 92",
+    "Play": "Round of 16",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 93",
+    "Play": "Round of 16",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 94",
+    "Play": "Round of 16",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 95",
+    "Play": "Round of 16",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 96",
+    "Play": "Round of 16",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+
+  },
+  {
+    "Match": "Match 97",
+    "Play": "Quarter-final",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 98",
+    "Play": "Quarter-final",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 99",
+    "Play": "Quarter-final",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 100",
+    "Play": "Quarter-final",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+
+  },
+  {
+    "Match": "Match 101",
+    "Play": "Semi-final",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+    "Match": "Match 102",
+    "Play": "Semi-final",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+
+  },
+  {
+    "Match": "Match 103",
+    "Play": "Bronze final",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  },
+  {
+
+  },
+  {
+    "Match": "Match 104",
+    "Play": "Final",
+    "Team_1": 0,
+    "Score_1": 0,
+    "Score_2": 0,
+    "Team_2": 0,
+    "Winner": "TBD"
+  }
+]
