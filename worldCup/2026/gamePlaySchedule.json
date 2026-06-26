@@ -9,7 +9,8 @@
     "Winner": "Mexico",
     "Group": "A",
     "Flag_1": "https://flagcdn.com/mx.svg",
-    "Flag_2": "https://flagcdn.com/kr.svg"
+    "Flag_2": "https://flagcdn.com/kr.svg",
+    "Flag_winner": "https://flagcdn.com/mx.svg"
   },
   {
     "Match": 0,
@@ -21,7 +22,8 @@
     "Winner": "Draw",
     "Group": "A",
     "Flag_1": "https://flagcdn.com/cz.svg",
-    "Flag_2": "https://flagcdn.com/za.svg"
+    "Flag_2": "https://flagcdn.com/za.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -33,7 +35,8 @@
     "Winner": "Mexico",
     "Group": "A",
     "Flag_1": "https://flagcdn.com/mx.svg",
-    "Flag_2": "https://flagcdn.com/cz.svg"
+    "Flag_2": "https://flagcdn.com/cz.svg",
+    "Flag_winner": "https://flagcdn.com/mx.svg"
   },
   {
     "Match": 0,
@@ -45,7 +48,8 @@
     "Winner": "South Africa",
     "Group": "A",
     "Flag_1": "https://flagcdn.com/kr.svg",
-    "Flag_2": "https://flagcdn.com/za.svg"
+    "Flag_2": "https://flagcdn.com/za.svg",
+    "Flag_winner": "https://flagcdn.com/za.svg"
   },
   {
     "Match": "Match 1",
@@ -57,7 +61,8 @@
     "Winner": "Mexico",
     "Group": "A",
     "Flag_1": "https://flagcdn.com/mx.svg",
-    "Flag_2": "https://flagcdn.com/za.svg"
+    "Flag_2": "https://flagcdn.com/za.svg",
+    "Flag_winner": "https://flagcdn.com/mx.svg"
   },
   {
     "Match": "Match 2",
@@ -69,7 +74,8 @@
     "Winner": "Republic of Korea",
     "Group": "A",
     "Flag_1": "https://flagcdn.com/kr.svg",
-    "Flag_2": "https://flagcdn.com/cz.svg"
+    "Flag_2": "https://flagcdn.com/cz.svg",
+    "Flag_winner": "https://flagcdn.com/kr.svg"
   },
   {
 
@@ -84,7 +90,8 @@
     "Winner": "Switzerland",
     "Group": "B",
     "Flag_1": "https://flagcdn.com/ca.svg",
-    "Flag_2": "https://flagcdn.com/ch.svg"
+    "Flag_2": "https://flagcdn.com/ch.svg",
+    "Flag_winner": "https://flagcdn.com/ch.svg"
   },
   {
     "Match": 0,
@@ -96,7 +103,8 @@
     "Winner": "Bosnia and Herzegovina",
     "Group": "B",
     "Flag_1": "https://flagcdn.com/ba.svg",
-    "Flag_2": "https://flagcdn.com/qa.svg"
+    "Flag_2": "https://flagcdn.com/qa.svg",
+    "Flag_winner": "https://flagcdn.com/ba.svg"
   },
   {
     "Match": 0,
@@ -108,7 +116,8 @@
     "Winner": "Draw",
     "Group": "B",
     "Flag_1": "https://flagcdn.com/ca.svg",
-    "Flag_2": "https://flagcdn.com/ba.svg"
+    "Flag_2": "https://flagcdn.com/ba.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -120,7 +129,8 @@
     "Winner": "Draw",
     "Group": "B",
     "Flag_1": "https://flagcdn.com/ch.svg",
-    "Flag_2": "https://flagcdn.com/qa.svg"
+    "Flag_2": "https://flagcdn.com/qa.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -132,7 +142,8 @@
     "Winner": "Canada",
     "Group": "B",
     "Flag_1": "https://flagcdn.com/ca.svg",
-    "Flag_2": "https://flagcdn.com/qa.svg"
+    "Flag_2": "https://flagcdn.com/qa.svg",
+    "Flag_winner": "https://flagcdn.com/ca.svg"
   },
   {
     "Match": 0,
@@ -144,7 +155,8 @@
     "Winner": "Switzerland",
     "Group": "B",
     "Flag_1": "https://flagcdn.com/ch.svg",
-    "Flag_2": "https://flagcdn.com/ba.svg"
+    "Flag_2": "https://flagcdn.com/ba.svg",
+    "Flag_winner": "https://flagcdn.com/ch.svg"
   },
   {
 
@@ -159,7 +171,8 @@
     "Winner": "Draw",
     "Group": "C",
     "Flag_1": "https://flagcdn.com/br.svg",
-    "Flag_2": "https://flagcdn.com/ma.svg"
+    "Flag_2": "https://flagcdn.com/ma.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -171,7 +184,8 @@
     "Winner": "Scotland",
     "Group": "C",
     "Flag_1": "https://flagcdn.com/gb-sct.svg",
-    "Flag_2": "https://flagcdn.com/ht.svg"
+    "Flag_2": "https://flagcdn.com/ht.svg",
+    "Flag_winner": "https://flagcdn.com/gb-sct.svg"
   },
   {
     "Match": 0,
@@ -183,7 +197,8 @@
     "Winner": "Brazil",
     "Group": "C",
     "Flag_1": "https://flagcdn.com/br.svg",
-    "Flag_2": "https://flagcdn.com/gb-sct.svg"
+    "Flag_2": "https://flagcdn.com/gb-sct.svg",
+    "Flag_winner": "https://flagcdn.com/br.svg"
   },
   {
     "Match": 0,
@@ -195,7 +210,8 @@
     "Winner": "Morocco",
     "Group": "C",
     "Flag_1": "https://flagcdn.com/ma.svg",
-    "Flag_2": "https://flagcdn.com/ht.svg"
+    "Flag_2": "https://flagcdn.com/ht.svg",
+    "Flag_winner": "https://flagcdn.com/ma.svg"
   },
   {
     "Match": 0,
@@ -207,7 +223,8 @@
     "Winner": "Brazil",
     "Group": "C",
     "Flag_1": "https://flagcdn.com/br.svg",
-    "Flag_2": "https://flagcdn.com/ht.svg"
+    "Flag_2": "https://flagcdn.com/ht.svg",
+    "Flag_winner": "https://flagcdn.com/br.svg"
   },
   {
     "Match": 0,
@@ -219,7 +236,8 @@
     "Winner": "Morocco",
     "Group": "C",
     "Flag_1": "https://flagcdn.com/ma.svg",
-    "Flag_2": "https://flagcdn.com/gb-sct.svg"
+    "Flag_2": "https://flagcdn.com/gb-sct.svg",
+    "Flag_winner": "https://flagcdn.com/ma.svg"
   },
   {
 
@@ -234,7 +252,8 @@
     "Winner": "USA",
     "Group": "D",
     "Flag_1": "https://flagcdn.com/us.svg",
-    "Flag_2": "https://flagcdn.com/au.svg"
+    "Flag_2": "https://flagcdn.com/au.svg",
+    "Flag_winner": "https://flagcdn.com/us.svg"
   },
   {
     "Match": 0,
@@ -246,7 +265,8 @@
     "Winner": "Paraguay",
     "Group": "D",
     "Flag_1": "https://flagcdn.com/py.svg",
-    "Flag_2": "https://flagcdn.com/tr.svg"
+    "Flag_2": "https://flagcdn.com/tr.svg",
+    "Flag_winner": "https://flagcdn.com/py.svg"
   },
   {
     "Match": 0,
@@ -258,7 +278,8 @@
     "Winner": "USA",
     "Group": "D",
     "Flag_1": "https://flagcdn.com/us.svg",
-    "Flag_2": "https://flagcdn.com/py.svg"
+    "Flag_2": "https://flagcdn.com/py.svg",
+    "Flag_winner": "https://flagcdn.com/us.svg"
   },
   {
     "Match": 0,
@@ -270,31 +291,34 @@
     "Winner": "Australia",
     "Group": "D",
     "Flag_1": "https://flagcdn.com/au.svg",
-    "Flag_2": "https://flagcdn.com/tr.svg"
+    "Flag_2": "https://flagcdn.com/tr.svg",
+    "Flag_winner": "https://flagcdn.com/au.svg"
   },
   {
     "Match": 0,
-    "Play": "D5",
+    "Play": "Match Day 3",
     "Team_1": "USA",
-    "Score_1": 0,
-    "Score_2": 0,
+    "Score_1": 2,
+    "Score_2": 3,
     "Team_2": "Turkiye",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Turkiye",
+    "Group": "D",
     "Flag_1": "https://flagcdn.com/us.svg",
-    "Flag_2": "https://flagcdn.com/tr.svg"
+    "Flag_2": "https://flagcdn.com/tr.svg",
+    "Flag_winner": "https://flagcdn.com/tr.svg"
   },
   {
     "Match": 0,
-    "Play": "D6",
+    "Play": "Match Day 3",
     "Team_1": "Australia",
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": "Paraguay",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Draw",
+    "Group": "D",
     "Flag_1": "https://flagcdn.com/au.svg",
-    "Flag_2": "https://flagcdn.com/py.svg"
+    "Flag_2": "https://flagcdn.com/py.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
 
@@ -309,7 +333,8 @@
     "Winner": "Germany",
     "Group": "E",
     "Flag_1": "https://flagcdn.com/de.svg",
-    "Flag_2": "https://flagcdn.com/ci.svg"
+    "Flag_2": "https://flagcdn.com/ci.svg",
+    "Flag_winner": "https://flagcdn.com/de.svg"
   },
   {
     "Match": 0,
@@ -321,31 +346,34 @@
     "Winner": "Draw",
     "Group": "E",
     "Flag_1": "https://flagcdn.com/ec.svg",
-    "Flag_2": "https://flagcdn.com/cw.svg"
+    "Flag_2": "https://flagcdn.com/cw.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
-    "Play": "E3",
+    "Play": "Match Day 3",
     "Team_1": "Germany",
-    "Score_1": 0,
-    "Score_2": 0,
+    "Score_1": 1,
+    "Score_2": 2,
     "Team_2": "Ecuador",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Ecuador",
+    "Group": "E",
     "Flag_1": "https://flagcdn.com/de.svg",
-    "Flag_2": "https://flagcdn.com/ec.svg"
+    "Flag_2": "https://flagcdn.com/ec.svg",
+    "Flag_winner": "https://flagcdn.com/ec.svg"
   },
   {
     "Match": 0,
-    "Play": "E4",
+    "Play": "Match Day 3",
     "Team_1": "Ivory Coast",
-    "Score_1": 0,
+    "Score_1": 2,
     "Score_2": 0,
     "Team_2": "Curacao",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Ivory Coast",
+    "Group": "E",
     "Flag_1": "https://flagcdn.com/ci.svg",
-    "Flag_2": "https://flagcdn.com/cw.svg"
+    "Flag_2": "https://flagcdn.com/cw.svg",
+    "Flag_winner": "https://flagcdn.com/ci.svg"
   },
   {
     "Match": 0,
@@ -357,7 +385,8 @@
     "Winner": "Germany",
     "Group": "E",
     "Flag_1": "https://flagcdn.com/de.svg",
-    "Flag_2": "https://flagcdn.com/cw.svg"
+    "Flag_2": "https://flagcdn.com/cw.svg",
+    "Flag_winner": "https://flagcdn.com/de.svg"
   },
   {
     "Match": 0,
@@ -369,7 +398,8 @@
     "Winner": "Ivory Coast",
     "Group": "E",
     "Flag_1": "https://flagcdn.com/ci.svg",
-    "Flag_2": "https://flagcdn.com/ec.svg"
+    "Flag_2": "https://flagcdn.com/ec.svg",
+    "Flag_winner": "https://flagcdn.com/ci.svg"
   },
   {
 
@@ -384,7 +414,8 @@
     "Winner": "Draw",
     "Group": "F",
     "Flag_1": "https://flagcdn.com/nl.svg",
-    "Flag_2": "https://flagcdn.com/jp.svg"
+    "Flag_2": "https://flagcdn.com/jp.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -396,7 +427,8 @@
     "Winner": "Sweden",
     "Group": "F",
     "Flag_1": "https://flagcdn.com/se.svg",
-    "Flag_2": "https://flagcdn.com/tn.svg"
+    "Flag_2": "https://flagcdn.com/tn.svg",
+    "Flag_winner": "https://flagcdn.com/se.svg"
   },
   {
     "Match": 0,
@@ -408,7 +440,8 @@
     "Winner": "Netherlands",
     "Group": "F",
     "Flag_1": "https://flagcdn.com/nl.svg",
-    "Flag_2": "https://flagcdn.com/se.svg"
+    "Flag_2": "https://flagcdn.com/se.svg",
+    "Flag_winner": "https://flagcdn.com/nl.svg"
   },
   {
     "Match": 0,
@@ -420,31 +453,34 @@
     "Winner": "Japan",
     "Group": "F",
     "Flag_1": "https://flagcdn.com/jp.svg",
-    "Flag_2": "https://flagcdn.com/tn.svg"
+    "Flag_2": "https://flagcdn.com/tn.svg",
+    "Flag_winner": "https://flagcdn.com/jp.svg"
   },
   {
     "Match": 0,
     "Play": "F5",
     "Team_1": "Netherlands",
-    "Score_1": 0,
-    "Score_2": 0,
+    "Score_1": 3,
+    "Score_2": 1,
     "Team_2": "Tunisia",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Netherlands",
+    "Group": "F",
     "Flag_1": "https://flagcdn.com/nl.svg",
-    "Flag_2": "https://flagcdn.com/tn.svg"
+    "Flag_2": "https://flagcdn.com/tn.svg",
+    "Flag_winner": "https://flagcdn.com/nl.svg"
   },
   {
     "Match": 0,
     "Play": "F6",
     "Team_1": "Japan",
-    "Score_1": 0,
-    "Score_2": 0,
+    "Score_1": 1,
+    "Score_2": 1,
     "Team_2": "Sweden",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Draw",
+    "Group": "F",
     "Flag_1": "https://flagcdn.com/jp.svg",
-    "Flag_2": "https://flagcdn.com/se.svg"
+    "Flag_2": "https://flagcdn.com/se.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
 
@@ -459,7 +495,8 @@
     "Winner": "Draw",
     "Group": "G",
     "Flag_1": "https://flagcdn.com/nz.svg",
-    "Flag_2": "https://flagcdn.com/ir.svg"
+    "Flag_2": "https://flagcdn.com/ir.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -471,7 +508,8 @@
     "Winner": "Draw",
     "Group": "G",
     "Flag_1": "https://flagcdn.com/be.svg",
-    "Flag_2": "https://flagcdn.com/eg.svg"
+    "Flag_2": "https://flagcdn.com/eg.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -483,7 +521,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/nz.svg",
-    "Flag_2": "https://flagcdn.com/be.svg"
+    "Flag_2": "https://flagcdn.com/be.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -495,7 +534,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/ir.svg",
-    "Flag_2": "https://flagcdn.com/eg.svg"
+    "Flag_2": "https://flagcdn.com/eg.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -507,7 +547,8 @@
     "Winner": "Egypt",
     "Group": "G",
     "Flag_1": "https://flagcdn.com/nz.svg",
-    "Flag_2": "https://flagcdn.com/eg.svg"
+    "Flag_2": "https://flagcdn.com/eg.svg",
+    "Flag_winner": "https://flagcdn.com/eg.svg"
   },
   {
     "Match": 0,
@@ -519,7 +560,8 @@
     "Winner": "Draw",
     "Group": "G",
     "Flag_1": "https://flagcdn.com/ir.svg",
-    "Flag_2": "https://flagcdn.com/be.svg"
+    "Flag_2": "https://flagcdn.com/be.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
 
@@ -534,7 +576,8 @@
     "Winner": "Draw",
     "Group": "H",
     "Flag_1": "https://flagcdn.com/uy.svg",
-    "Flag_2": "https://flagcdn.com/sa.svg"
+    "Flag_2": "https://flagcdn.com/sa.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -546,7 +589,8 @@
     "Winner": "Draw",
     "Group": "H",
     "Flag_1": "https://flagcdn.com/es.svg",
-    "Flag_2": "https://flagcdn.com/cv.svg"
+    "Flag_2": "https://flagcdn.com/cv.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -558,7 +602,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/uy.svg",
-    "Flag_2": "https://flagcdn.com/es.svg"
+    "Flag_2": "https://flagcdn.com/es.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -570,7 +615,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/sa.svg",
-    "Flag_2": "https://flagcdn.com/cv.svg"
+    "Flag_2": "https://flagcdn.com/cv.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -582,7 +628,8 @@
     "Winner": "Draw",
     "Group": "H",
     "Flag_1": "https://flagcdn.com/uy.svg",
-    "Flag_2": "https://flagcdn.com/cv.svg"
+    "Flag_2": "https://flagcdn.com/cv.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -594,7 +641,8 @@
     "Winner": "Spain",
     "Group": "H",
     "Flag_1": "https://flagcdn.com/sa.svg",
-    "Flag_2": "https://flagcdn.com/es.svg"
+    "Flag_2": "https://flagcdn.com/es.svg",
+    "Flag_winner": "https://flagcdn.com/es.svg"
   },
   {
 
@@ -609,7 +657,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/no.svg",
-    "Flag_2": "https://flagcdn.com/fr.svg"
+    "Flag_2": "https://flagcdn.com/fr.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -621,7 +670,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/sn.svg",
-    "Flag_2": "https://flagcdn.com/iq.svg"
+    "Flag_2": "https://flagcdn.com/iq.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -633,7 +683,8 @@
     "Winner": "Norway",
     "Group": "I",
     "Flag_1": "https://flagcdn.com/no.svg",
-    "Flag_2": "https://flagcdn.com/sn.svg"
+    "Flag_2": "https://flagcdn.com/sn.svg",
+    "Flag_winner": "https://flagcdn.com/no.svg"
   },
   {
     "Match": 0,
@@ -645,7 +696,8 @@
     "Winner": "France",
     "Group": "I",
     "Flag_1": "https://flagcdn.com/fr.svg",
-    "Flag_2": "https://flagcdn.com/iq.svg"
+    "Flag_2": "https://flagcdn.com/iq.svg",
+    "Flag_winner": "https://flagcdn.com/fr.svg"
   },
   {
     "Match": 0,
@@ -657,7 +709,8 @@
     "Winner": "Norway",
     "Group": "I",
     "Flag_1": "https://flagcdn.com/no.svg",
-    "Flag_2": "https://flagcdn.com/iq.svg"
+    "Flag_2": "https://flagcdn.com/iq.svg",
+    "Flag_winner": "https://flagcdn.com/no.svg"
   },
   {
     "Match": 0,
@@ -669,7 +722,8 @@
     "Winner": "France",
     "Group": "I",
     "Flag_1": "https://flagcdn.com/fr.svg",
-    "Flag_2": "https://flagcdn.com/sn.svg"
+    "Flag_2": "https://flagcdn.com/sn.svg",
+    "Flag_winner": "https://flagcdn.com/fr.svg"
   },
   {
 
@@ -684,7 +738,8 @@
     "Winner": "Argentina",
     "Group": "J",
     "Flag_1": "https://flagcdn.com/ar.svg",
-    "Flag_2": "https://flagcdn.com/at.svg"
+    "Flag_2": "https://flagcdn.com/at.svg",
+    "Flag_winner": "https://flagcdn.com/ar.svg"
   },
   {
     "Match": 0,
@@ -696,7 +751,8 @@
     "Winner": "Algeria",
     "Group": "J",
     "Flag_1": "https://flagcdn.com/jo.svg",
-    "Flag_2": "https://flagcdn.com/dz.svg"
+    "Flag_2": "https://flagcdn.com/dz.svg",
+    "Flag_winner": "https://flagcdn.com/dz.svg"
   },
   {
     "Match": 0,
@@ -708,7 +764,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/ar.svg",
-    "Flag_2": "https://flagcdn.com/jo.svg"
+    "Flag_2": "https://flagcdn.com/jo.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -720,7 +777,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/at.svg",
-    "Flag_2": "https://flagcdn.com/dz.svg"
+    "Flag_2": "https://flagcdn.com/dz.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -732,7 +790,8 @@
     "Winner": "Argentina",
     "Group": "J",
     "Flag_1": "https://flagcdn.com/ar.svg",
-    "Flag_2": "https://flagcdn.com/dz.svg"
+    "Flag_2": "https://flagcdn.com/dz.svg",
+    "Flag_winner": "https://flagcdn.com/ar.svg"
   },
   {
     "Match": 0,
@@ -744,7 +803,8 @@
     "Winner": "Jordan",
     "Group": "J",
     "Flag_1": "https://flagcdn.com/at.svg",
-    "Flag_2": "https://flagcdn.com/jo.svg"
+    "Flag_2": "https://flagcdn.com/jo.svg",
+    "Flag_winner": "https://flagcdn.com/jo.svg"
   },
   {
 
@@ -759,7 +819,8 @@
     "Winner": "Colombia",
     "Group": "K",
     "Flag_1": "https://flagcdn.com/co.svg",
-    "Flag_2": "https://flagcdn.com/cd.svg"
+    "Flag_2": "https://flagcdn.com/cd.svg",
+    "Flag_winner": "https://flagcdn.com/co.svg"
   },
   {
     "Match": 0,
@@ -771,7 +832,8 @@
     "Winner": "Portugal",
     "Group": "K",
     "Flag_1": "https://flagcdn.com/pt.svg",
-    "Flag_2": "https://flagcdn.com/uz.svg"
+    "Flag_2": "https://flagcdn.com/uz.svg",
+    "Flag_winner": "https://flagcdn.com/pt.svg"
   },
   {
     "Match": 0,
@@ -783,7 +845,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/co.svg",
-    "Flag_2": "https://flagcdn.com/pt.svg"
+    "Flag_2": "https://flagcdn.com/pt.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -795,7 +858,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/cd.svg",
-    "Flag_2": "https://flagcdn.com/uz.svg"
+    "Flag_2": "https://flagcdn.com/uz.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -807,7 +871,8 @@
     "Winner": "Colombia",
     "Group": "K",
     "Flag_1": "https://flagcdn.com/co.svg",
-    "Flag_2": "https://flagcdn.com/uz.svg"
+    "Flag_2": "https://flagcdn.com/uz.svg",
+    "Flag_winner": "https://flagcdn.com/co.svg"
   },
   {
     "Match": 0,
@@ -819,7 +884,8 @@
     "Winner": "Draw",
     "Group": "K",
     "Flag_1": "https://flagcdn.com/cd.svg",
-    "Flag_2": "https://flagcdn.com/pt.svg"
+    "Flag_2": "https://flagcdn.com/pt.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
 
@@ -834,7 +900,8 @@
     "Winner": "Draw",
     "Group": "L",
     "Flag_1": "https://flagcdn.com/gb-eng.svg",
-    "Flag_2": "https://flagcdn.com/gh.svg"
+    "Flag_2": "https://flagcdn.com/gh.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
   },
   {
     "Match": 0,
@@ -846,7 +913,8 @@
     "Winner": "Croatia",
     "Group": "L",
     "Flag_1": "https://flagcdn.com/pa.svg",
-    "Flag_2": "https://flagcdn.com/hr.svg"
+    "Flag_2": "https://flagcdn.com/hr.svg",
+    "Flag_winner": "https://flagcdn.com/hr.svg"
   },
   {
     "Match": 0,
@@ -858,7 +926,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/gb-eng.svg",
-    "Flag_2": "https://flagcdn.com/pa.svg"
+    "Flag_2": "https://flagcdn.com/pa.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -870,7 +939,8 @@
     "Winner": "TBD",
     "Group": 0,
     "Flag_1": "https://flagcdn.com/gh.svg",
-    "Flag_2": "https://flagcdn.com/hr.svg"
+    "Flag_2": "https://flagcdn.com/hr.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": 0,
@@ -882,7 +952,8 @@
     "Winner": "England",
     "Group": "L",
     "Flag_1": "https://flagcdn.com/gb-eng.svg",
-    "Flag_2": "https://flagcdn.com/hr.svg"
+    "Flag_2": "https://flagcdn.com/hr.svg",
+    "Flag_winner": "https://flagcdn.com/gb-eng.svg"
   },
   {
     "Match": 0,
@@ -894,7 +965,8 @@
     "Winner": "Ghana",
     "Group": "L",
     "Flag_1": "https://flagcdn.com/gh.svg",
-    "Flag_2": "https://flagcdn.com/pa.svg"
+    "Flag_2": "https://flagcdn.com/pa.svg",
+    "Flag_winner": "https://flagcdn.com/gh.svg"
   },
   {
 
@@ -906,7 +978,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 74",
@@ -915,7 +991,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 75",
@@ -924,7 +1004,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 76",
@@ -933,7 +1017,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 77",
@@ -942,7 +1030,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 78",
@@ -951,7 +1043,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 79",
@@ -960,7 +1056,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 80",
@@ -969,7 +1069,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 81",
@@ -978,7 +1082,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 82",
@@ -987,7 +1095,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 83",
@@ -996,7 +1108,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 84",
@@ -1005,7 +1121,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 85",
@@ -1014,7 +1134,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 86",
@@ -1023,7 +1147,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 87",
@@ -1032,7 +1160,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 88",
@@ -1041,7 +1173,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
 
@@ -1053,7 +1189,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 90",
@@ -1062,7 +1202,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 91",
@@ -1071,7 +1215,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 92",
@@ -1080,7 +1228,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 93",
@@ -1089,7 +1241,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 94",
@@ -1098,7 +1254,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 95",
@@ -1107,7 +1267,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 96",
@@ -1116,7 +1280,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
 
@@ -1128,7 +1296,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 98",
@@ -1137,7 +1309,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 99",
@@ -1146,7 +1322,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 100",
@@ -1155,7 +1335,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
 
@@ -1167,7 +1351,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
     "Match": "Match 102",
@@ -1176,7 +1364,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
 
@@ -1188,7 +1380,11 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
 
@@ -1200,6 +1396,10 @@
     "Score_1": 0,
     "Score_2": 0,
     "Team_2": 0,
-    "Winner": "TBD"
+    "Winner": "TBD",
+    "Group": 0,
+    "Flag_1": 0,
+    "Flag_2": 0,
+    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   }
 ]
