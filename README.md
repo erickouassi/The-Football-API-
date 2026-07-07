@@ -90,20 +90,32 @@ You can use the data in multiple ways:
 
 ```json
 {
-  "match_id": 101,
-  "competition": "World Cup",
-  "stage": "Group A",
-  "date": "2022-11-21",
-  "teams": {
-    "home": "Qatar",
-    "away": "Ecuador"
+    "Match": "Match 28",
+    "Play": "Match Day 2",
+    "Team_1": "Mexico",
+    "Score_1": 1,
+    "Score_2": 0,
+    "Team_2": "Republic of Korea",
+    "Winner": "Mexico",
+    "Group": "A",
+    "Date": "6/18/2026",
+    "Flag_1": "https://flagcdn.com/mx.svg",
+    "Flag_2": "https://flagcdn.com/kr.svg",
+    "Flag_winner": "https://flagcdn.com/mx.svg"
   },
-  "score": {
-    "home": 0,
-    "away": 2
-  },
-  "stadium": "Al Bayt Stadium",
-  "referee": "Daniel Siebert"
-}
+  {
+    "Match": "Match 25",
+    "Play": "Match Day 2",
+    "Team_1": "Czechia",
+    "Score_1": 1,
+    "Score_2": 1,
+    "Team_2": "South Africa",
+    "Winner": "Draw",
+    "Group": "A",
+    "Date": "6/18/2026",
+    "Flag_1": "https://flagcdn.com/cz.svg",
+    "Flag_2": "https://flagcdn.com/za.svg",
+    "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
+  }, ```
 
 
