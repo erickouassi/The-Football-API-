@@ -1,0 +1,163 @@
+[
+  {
+    "Year": 1930,
+    "Hosts": "Uruguay",
+    "Total_Attendance": 590549,
+    "Matches": 18,
+    "Average_Attendance": 32808
+  },
+  {
+    "Year": 1934,
+    "Hosts": "Italy",
+    "Total_Attendance": 363000,
+    "Matches": 17,
+    "Average_Attendance": 21353
+  },
+  {
+    "Year": 1938,
+    "Hosts": "France",
+    "Total_Attendance": 375700,
+    "Matches": 18,
+    "Average_Attendance": 20872
+  },
+  {
+    "Year": 1950,
+    "Hosts": "Brazil",
+    "Total_Attendance": 1045246,
+    "Matches": 22,
+    "Average_Attendance": 47511
+  },
+  {
+    "Year": 1954,
+    "Hosts": "Switzerland",
+    "Total_Attendance": 768607,
+    "Matches": 26,
+    "Average_Attendance": 29562
+  },
+  {
+    "Year": 1958,
+    "Hosts": "Sweden",
+    "Total_Attendance": 819810,
+    "Matches": 35,
+    "Average_Attendance": 23423
+  },
+  {
+    "Year": 1962,
+    "Hosts": "Chile",
+    "Total_Attendance": 893172,
+    "Matches": 32,
+    "Average_Attendance": 27912
+  },
+  {
+    "Year": 1966,
+    "Hosts": "England",
+    "Total_Attendance": 1563135,
+    "Matches": 32,
+    "Average_Attendance": 48848
+  },
+  {
+    "Year": 1970,
+    "Hosts": "Mexico",
+    "Total_Attendance": 1603975,
+    "Matches": 32,
+    "Average_Attendance": 50124
+  },
+  {
+    "Year": 1974,
+    "Hosts": "West Germany",
+    "Total_Attendance": 1865753,
+    "Matches": 38,
+    "Average_Attendance": 49099
+  },
+  {
+    "Year": 1978,
+    "Hosts": "Argentina",
+    "Total_Attendance": 1545791,
+    "Matches": 38,
+    "Average_Attendance": 40679
+  },
+  {
+    "Year": 1982,
+    "Hosts": "Spain",
+    "Total_Attendance": 2109723,
+    "Matches": 52,
+    "Average_Attendance": 40572
+  },
+  {
+    "Year": 1986,
+    "Hosts": "Mexico",
+    "Total_Attendance": 2394031,
+    "Matches": 52,
+    "Average_Attendance": 46039
+  },
+  {
+    "Year": 1990,
+    "Hosts": "Italy",
+    "Total_Attendance": 2516215,
+    "Matches": 52,
+    "Average_Attendance": 48389
+  },
+  {
+    "Year": 1994,
+    "Hosts": "United States",
+    "Total_Attendance": 3587538,
+    "Matches": 52,
+    "Average_Attendance": 68991
+  },
+  {
+    "Year": 1998,
+    "Hosts": "France",
+    "Total_Attendance": 2785100,
+    "Matches": 64,
+    "Average_Attendance": 43517
+  },
+  {
+    "Year": 2002,
+    "Hosts": "South Korea / Japan",
+    "Total_Attendance": 2705197,
+    "Matches": 64,
+    "Average_Attendance": 42269
+  },
+  {
+    "Year": 2006,
+    "Hosts": "Germany",
+    "Total_Attendance": 3359439,
+    "Matches": 64,
+    "Average_Attendance": 52491
+  },
+  {
+    "Year": 2010,
+    "Hosts": "South Africa",
+    "Total_Attendance": 3178856,
+    "Matches": 64,
+    "Average_Attendance": 49670
+  },
+  {
+    "Year": 2014,
+    "Hosts": "Brazil",
+    "Total_Attendance": 3429873,
+    "Matches": 64,
+    "Average_Attendance": 53592
+  },
+  {
+    "Year": 2018,
+    "Hosts": "Russia",
+    "Total_Attendance": 3031768,
+    "Matches": 64,
+    "Average_Attendance": 47371
+  },
+  {
+    "Year": 2022,
+    "Hosts": "Qatar",
+    "Total_Attendance": 3404252,
+    "Matches": 64,
+    "Average_Attendance": 53191
+  },
+  {
+    "Year": 2026,
+    "Hosts": "Canada / Mexico / United States",
+    "Total_Attendance": "TBD",
+    "Matches": 104,
+    "Average_Attendance": "TBD"
+  }
+]
