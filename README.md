@@ -121,3 +121,19 @@ You can use the data in multiple ways:
   }, 
 
 
+
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created for **educational and open-data purposes**.  
+Player and match information is based on **publicly available sources** and may not be 100% accurate or complete.  
+Data is provided as-is, without warranty or guarantee of accuracy.  
+Contributors and users are encouraged to verify and improve the data as the project evolves.
+
+
+
