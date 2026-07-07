@@ -91,9 +91,10 @@ You can use the data in multiple ways:
 ## 🌐 Demo Website
 
 A live demo built using this repository is available here:  
-**https://football-direct.adminhq.cf/index.html**
+<a href="https://football-direct.adminhq.cf/index.html" target="_blank">https://football-direct.adminhq.cf/index.html</a>
 
 This demo shows how the JSON and CSV data can be used to create a fully client‑side football dashboard without rate limits, quotas, or API keys.
+
 
 ---
 
