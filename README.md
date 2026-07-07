@@ -88,9 +88,12 @@ You can use the data in multiple ways:
 
 ---
 
-Here is the cleaned-up and properly formatted version of your Markdown snippet.
+## 🌐 Demo Website
 
-I fixed the syntax by turning the raw JSON snippets into a single, valid JSON code block, corrected the indentation, and standardized the header spacing.
+A live demo built using this repository is available here:  
+**https://football-direct.adminhq.cf/index.html**
+
+This demo shows how the JSON and CSV data can be used to create a fully client‑side football dashboard without rate limits, quotas, or API keys.
 
 ---
 
