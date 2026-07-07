@@ -118,6 +118,6 @@ You can use the data in multiple ways:
     "Flag_1": "https://flagcdn.com/cz.svg",
     "Flag_2": "https://flagcdn.com/za.svg",
     "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
-  }, ```
+  }, 
 
 
