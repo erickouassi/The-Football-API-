@@ -1327,32 +1327,32 @@
     "Flag_winner": "https://flagcdn.com/gb-eng.svg"
   },
   {
-    "Match": "Match 93",
+    "Match": "Match 94",
     "Play": "Round of 16",
     "Team_1": "Belgium",
-    "Score_1": 0,
-    "Score_2": 0,
+    "Score_1": 4,
+    "Score_2": 1,
     "Team_2": "USA",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Belgium",
+    "Group": "G",
     "Date": "7/6/2026",
     "Flag_1": "https://flagcdn.com/be.svg",
     "Flag_2": "https://flagcdn.com/us.svg",
-    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
+    "Flag_winner": "https://flagcdn.com/be.svg"
   },
   {
-    "Match": "Match 94",
+    "Match": "Match 93",
     "Play": "Round of 16",
     "Team_1": "Spain",
-    "Score_1": 0,
+    "Score_1": 1,
     "Score_2": 0,
     "Team_2": "Portugal",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Spain",
+    "Group": "H",
     "Date": "7/6/2026",
     "Flag_1": "https://flagcdn.com/es.svg",
     "Flag_2": "https://flagcdn.com/pt.svg",
-    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
+    "Flag_winner": "https://flagcdn.com/es.svg"
   },
   {
     "Match": "Match 95",
@@ -1416,15 +1416,15 @@
   {
     "Match": "Match 99",
     "Play": "Quarter-final",
-    "Team_1": 0,
+    "Team_1": "Spain",
     "Score_1": 0,
     "Score_2": 0,
-    "Team_2": 0,
+    "Team_2": "Belgium",
     "Winner": "TBD",
     "Group": 0,
     "Date": "7/11/2026",
-    "Flag_1": 0,
-    "Flag_2": 0,
+    "Flag_1": "https://flagcdn.com/es.svg",
+    "Flag_2": "https://flagcdn.com/be.svg",
     "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png"
   },
   {
