@@ -134,6 +134,8 @@ I fixed the syntax by turning the raw JSON snippets into a single, valid JSON co
 
 This project is licensed under the **MIT License** — see the [LICENSE](https://github.com/erickouassi/The-Football-API-/tree/main?tab=MIT-1-ov-file) file for details.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ---
 
 ## ⚠️ Disclaimer
