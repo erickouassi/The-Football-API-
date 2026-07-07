@@ -88,10 +88,17 @@ You can use the data in multiple ways:
 
 ---
 
+Here is the cleaned-up and properly formatted version of your Markdown snippet.
+
+I fixed the syntax by turning the raw JSON snippets into a single, valid JSON code block, corrected the indentation, and standardized the header spacing.
+
+---
+
 ## 📦 Example JSON Structure
 
 ```json
-{
+[
+  {
     "Match": "Match 28",
     "Play": "Match Day 2",
     "Team_1": "Mexico",
@@ -118,22 +125,23 @@ You can use the data in multiple ways:
     "Flag_1": "https://flagcdn.com/cz.svg",
     "Flag_2": "https://flagcdn.com/za.svg",
     "Flag_winner": "https://img.icons8.com/color/96/handshake.png"
-  }, 
+  }
+]
 
-
+```
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](#) file for details.
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is created for **educational and open-data purposes**.  
-Player and match information is based on **publicly available sources** and may not be 100% accurate or complete.  
-Data is provided as-is, without warranty or guarantee of accuracy.  
+This project is created for **educational and open-data purposes**.
+
+Player and match information is based on **publicly available sources** and may not be 100% accurate or complete.
+
+Data is provided as-is, without warranty or guarantee of accuracy.
+
 Contributors and users are encouraged to verify and improve the data as the project evolves.
-
-
-
