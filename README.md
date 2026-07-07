@@ -18,17 +18,19 @@ By forking this repository, you can host your own football API anywhere (GitHub 
 
 ## 📂 What’s Inside
 
-All datasets are provided in both **JSON** and **CSV** formats:
+All datasets will be provided in both **JSON** or **CSV** formats.  
+We plan to include the following data categories, and they will become available progressively as the project grows:
 
-- **Competitions** — World Cup, AFCON, qualifiers, and more.
-- **Teams** — National teams, federations, confederations.
-- **Squads** — Player lists, positions, ages, clubs.
-- **Matches** — Fixtures, results, dates, stadiums.
-- **Lineups** — Starting XI, substitutes, formations.
-- **Statistics** — Goals, cards, standings, group tables.
+- **Competitions** — World Cup, AFCON, qualifiers, and more.  
+- **Teams** — National teams, federations, confederations.  
+- **Squads** — Player lists, positions, ages, clubs.  
+- **Matches** — Fixtures, results, dates, stadiums.  
+- **Lineups** — Starting XI, substitutes, formations.  
+- **Statistics** — Goals, cards, standings, group tables.  
 - **Historical Data** — Past tournaments, legendary teams.
 
-Every file is structured for easy parsing and integration into apps, websites, or analytics tools.
+Every file will be structured for easy parsing and integration into apps, websites, or analytics tools as they are added.
+
 
 ---
 
