@@ -1,0 +1,358 @@
+[
+  {
+    "country": "Argentina",
+    "participations": [1930, 1934, 1958, 1962, 1966, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": [1978, 1986, 2022]
+  },
+  {
+    "country": "Brazil",
+    "participations": [1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966, 1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": [1958, 1962, 1970, 1994, 2002]
+  },
+  {
+    "country": "Germany",
+    "participations": [1934, 1938, 1954, 1958, 1962, 1966, 1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": [1954, 1974, 1990, 2014]
+  },
+  {
+    "country": "Italy",
+    "participations": [1934, 1938, 1950, 1962, 1966, 1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2014],
+    "titles": [1934, 1938, 1982, 2006]
+  },
+  {
+    "country": "France",
+    "participations": [1930, 1934, 1938, 1954, 1958, 1966, 1978, 1982, 1986, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": [1998, 2018]
+  },
+  {
+    "country": "Uruguay",
+    "participations": [1930, 1950, 1954, 1962, 1966, 1970, 1974, 1986, 1990, 2002, 2010, 2014, 2018, 2022],
+    "titles": [1930, 1950]
+  },
+  {
+    "country": "England",
+    "participations": [1950, 1954, 1958, 1962, 1966, 1970, 1982, 1986, 1990, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": [1966]
+  },
+  {
+    "country": "Spain",
+    "participations": [1934, 1950, 1962, 1966, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": [2010]
+  },
+
+  {
+    "country": "Netherlands",
+    "participations": [1934, 1938, 1974, 1978, 1990, 1994, 1998, 2006, 2010, 2014, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Portugal",
+    "participations": [1966, 1986, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Belgium",
+    "participations": [1930, 1934, 1938, 1954, 1970, 1982, 1986, 1990, 1994, 1998, 2002, 2014, 2018, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Croatia",
+    "participations": [1998, 2002, 2006, 2014, 2018, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Sweden",
+    "participations": [1934, 1938, 1950, 1958, 1970, 1974, 1978, 1990, 1994, 2002, 2006, 2018],
+    "titles": []
+  },
+  {
+    "country": "Russia",
+    "participations": [1994, 2002, 2014, 2018],
+    "titles": []
+  },
+  {
+    "country": "Mexico",
+    "participations": [1930, 1950, 1954, 1958, 1962, 1966, 1970, 1978, 1986, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "United States",
+    "participations": [1930, 1934, 1950, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Japan",
+    "participations": [1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "South Korea",
+    "participations": [1954, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Switzerland",
+    "participations": [1934, 1938, 1950, 1954, 1962, 1966, 1994, 2006, 2010, 2014, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Austria",
+    "participations": [1934, 1938, 1954, 1958, 1978, 1982, 1990, 1998, 2026],
+    "titles": []
+  },
+  {
+    "country": "Poland",
+    "participations": [1938, 1974, 1978, 1982, 1986, 2002, 2006, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Chile",
+    "participations": [1930, 1950, 1954, 1958, 1962, 1966, 1970, 1974, 1982, 1998, 2010, 2014],
+    "titles": []
+  },
+  {
+    "country": "Colombia",
+    "participations": [1962, 1990, 1994, 1998, 2014, 2018, 2026],
+    "titles": []
+  },
+  {
+    "country": "Peru",
+    "participations": [1930, 1970, 1978, 1982, 2018],
+    "titles": []
+  },
+  {
+    "country": "Paraguay",
+    "participations": [1930, 1950, 1958, 1986, 1998, 2002, 2006, 2010, 2026],
+    "titles": []
+  },
+  {
+    "country": "Ecuador",
+    "participations": [2002, 2006, 2014, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Bolivia",
+    "participations": [1930, 1950, 1994],
+    "titles": []
+  },
+  {
+    "country": "Venezuela",
+    "participations": [],
+    "titles": []
+  },
+
+  {
+    "country": "Nigeria",
+    "participations": [1994, 1998, 2002, 2010, 2014, 2018],
+    "titles": []
+  },
+  {
+    "country": "Cameroon",
+    "participations": [1982, 1990, 1994, 1998, 2002, 2010, 2014, 2022],
+    "titles": []
+  },
+  {
+    "country": "Ghana",
+    "participations": [2006, 2010, 2014, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Senegal",
+    "participations": [2002, 2018, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Morocco",
+    "participations": [1970, 1986, 1994, 1998, 2018, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Tunisia",
+    "participations": [1978, 1998, 2002, 2006, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Egypt",
+    "participations": [1934, 1990, 2018, 2026],
+    "titles": []
+  },
+  {
+    "country": "South Africa",
+    "participations": [1998, 2002, 2010, 2026],
+    "titles": []
+  },
+  {
+    "country": "Ivory Coast",
+    "participations": [2006, 2010, 2014, 2026],
+    "titles": []
+  },
+  {
+    "country": "Algeria",
+    "participations": [1982, 1986, 2010, 2014, 2026],
+    "titles": []
+  },
+
+  {
+    "country": "Saudi Arabia",
+    "participations": [1994, 1998, 2002, 2006, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Iran",
+    "participations": [1978, 1998, 2006, 2014, 2018, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "Australia",
+    "participations": [1974, 2006, 2010, 2014, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Qatar",
+    "participations": [2022],
+    "titles": []
+  },
+  {
+    "country": "China",
+    "participations": [2002],
+    "titles": []
+  },
+  {
+    "country": "Iraq",
+    "participations": [1986],
+    "titles": []
+  },
+  {
+    "country": "Kuwait",
+    "participations": [1982],
+    "titles": []
+  },
+  {
+    "country": "UAE",
+    "participations": [1990],
+    "titles": []
+  },
+
+  {
+    "country": "Costa Rica",
+    "participations": [1990, 2002, 2006, 2014, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Honduras",
+    "participations": [1982, 2010, 2014],
+    "titles": []
+  },
+  {
+    "country": "Panama",
+    "participations": [2018],
+    "titles": []
+  },
+  {
+    "country": "Canada",
+    "participations": [1986, 2022, 2026],
+    "titles": []
+  },
+  {
+    "country": "El Salvador",
+    "participations": [1970, 1982],
+    "titles": []
+  },
+  {
+    "country": "Jamaica",
+    "participations": [1998],
+    "titles": []
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "participations": [2006],
+    "titles": []
+  },
+
+  {
+    "country": "Denmark",
+    "participations": [1986, 1998, 2002, 2010, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Norway",
+    "participations": [1938, 1994, 1998],
+    "titles": []
+  },
+  {
+    "country": "Finland",
+    "participations": [],
+    "titles": []
+  },
+  {
+    "country": "Greece",
+    "participations": [1994, 2010, 2014],
+    "titles": []
+  },
+  {
+    "country": "Turkey",
+    "participations": [1954, 2002],
+    "titles": []
+  },
+  {
+    "country": "Romania",
+    "participations": [1930, 1934, 1938, 1970, 1990, 1994, 1998],
+    "titles": []
+  },
+  {
+    "country": "Bulgaria",
+    "participations": [1962, 1966, 1970, 1974, 1978, 1986, 1994, 1998],
+    "titles": []
+  },
+  {
+    "country": "Czech Republic",
+    "participations": [2006],
+    "titles": []
+  },
+  {
+    "country": "Slovakia",
+    "participations": [2010],
+    "titles": []
+  },
+  {
+    "country": "Serbia",
+    "participations": [2010, 2018, 2022],
+    "titles": []
+  },
+  {
+    "country": "Ukraine",
+    "participations": [2006],
+    "titles": []
+  },
+  {
+    "country": "Scotland",
+    "participations": [1954, 1958, 1962, 1974, 1978, 1982, 1986, 1990, 1998],
+    "titles": []
+  },
+  {
+    "country": "Wales",
+    "participations": [1958, 2022],
+    "titles": []
+  },
+  {
+    "country": "Northern Ireland",
+    "participations": [1958, 1982, 1986],
+    "titles": []
+  },
+  {
+    "country": "Ireland",
+    "participations": [1990, 1994, 2002],
+    "titles": []
+  },
+  {
+    "country": "Iceland",
+    "participations": [2018],
+    "titles": []
+  },
+
+  {
+    "country": "New Zealand",
+    "participations": [1982, 2010],
+    "titles": []
+  }
+]
