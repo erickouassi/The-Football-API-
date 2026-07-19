@@ -1599,15 +1599,15 @@
     "Match": "Match 104",
     "Play": "Final",
     "Team_1": "Spain",
-    "Score_1": 0,
+    "Score_1": 1,
     "Score_2": 0,
     "Team_2": "Argentina",
-    "Winner": "TBD",
-    "Group": 0,
+    "Winner": "Spain",
+    "Group": "H",
     "Date": "7/19/2026",
     "Flag_1": "https://flagcdn.com/es.svg",
     "Flag_2": "https://flagcdn.com/ar.svg",
-    "Flag_winner": "https://img.icons8.com/color/96/clock--v1.png",
+    "Flag_winner": "https://flagcdn.com/es.svg",
     "matchday": "Match Day 9"
   }
 ]
